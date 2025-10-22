@@ -1,1 +1,1 @@
-This is a time-travel magazine where we travel using a time machine.
+The time machine has the capability to take us to any possible time period.
